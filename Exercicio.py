@@ -1,0 +1,5 @@
+print ('Seja bem vindo ao programa de somas, digite os valores para serem somados.')
+numero1= int(input ('Digite aqui o primeiro numero para a soma'))
+numero2= int(input ('Digite aqui o segundo numero para a soma'))
+resultado= int (numero1+numero2)
+print ('O resultado da sua soma é:', resultado,)

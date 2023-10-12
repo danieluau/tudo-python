@@ -1,0 +1,6 @@
+print ('seja bem vindo')
+numero1= int(input ('entre com o primeiro valor:'))
+numero2= int(input ('entre com o segundo valor:'))
+resultado= int (numero1 + numero2)
+# print ('o resultado da soma de', numero1,'e', numero2 dois 'é', resultado,)
+print ('a soma entre {} e {} vale {}'.format(numero1, numero2, resultado))
